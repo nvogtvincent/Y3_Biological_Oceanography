@@ -1,6 +1,3 @@
-# CGE3466
-Practical exercises for CGE3466
-
-This repository contains a series of practical exercises that form part of the module CGE3466 Biological Oceanography, run by Bob Brewin at the University of Exerer (r.brewin@exeter.ac.uk).
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rjbrewin/CGE3466/HEAD)
+# Oxford Earth Sciences 3rd year Biological Oceanography Practicals
+* W6 practical (blooms) is based on CGE3466, originally written by Bob Brewin at the University of Exeter.
+* W7 practical (primary production) is based on...
